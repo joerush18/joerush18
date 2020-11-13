@@ -1,4 +1,4 @@
-### Hi there, I'm Joer Rush - aka [Joe Rush][website] 👋
+### Hi there, I'm Joe Rush - aka [Joe Rush][website] 👋
 
 ## I'm a Son, Brother, Developer, and Student!!
 
