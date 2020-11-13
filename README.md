@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play fifa / football.
+- ⚡ Fun fact: I listen to music 12hrs a day.
 
 ### Spotify Playing 🎧
 
