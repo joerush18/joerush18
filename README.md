@@ -9,7 +9,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joe Rush Spotify Playing" width="350" />]
-(https://open.spotify.com/user/3tee5m042umnb39f2ew269f0x?si=7rMN8NQtSTaKsGYHJSI-hg)
 
 ### Connect with me:
 
