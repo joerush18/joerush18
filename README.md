@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX7qK8ma5wgG1" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>]
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joe Rush Spotify Playing" width="350" />]
 
 ### Connect with me:
 
