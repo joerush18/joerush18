@@ -3,7 +3,7 @@
 ## I'm a Son, Brother, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I listen to music 12hrs a day.
 
 ### Spotify Playing 🎧
