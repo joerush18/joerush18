@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I listen to music 12hrs a day.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
 ### Connect with me:
 
 [<img align="left" alt="sarojaryal.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
