@@ -1,5 +1,5 @@
 ### Hi there, I'm Saroj Aryal - aka [Joe Rush][website] 👋
-
+[![](https://visitcount.itsvg.in/api?id=joerush18&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
 ## I'm a Son, Brother, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
