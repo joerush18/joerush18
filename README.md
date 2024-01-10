@@ -1,9 +1,9 @@
 ### Hi there, I'm Saroj Aryal - aka [Joe Rush][website] 👋
 [![](https://visitcount.itsvg.in/api?id=joerush18&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
-## I'm a Son, Brother, Developer, and Student!!
+## I'm a Son, Brother, Student & Developer.
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Stay happy and creative as hell.
+- 🌱 I’m currently working on my startup.
+- 🥅 2024 Goals: Stay happy and creative as hell.
 - ⚡ Fun fact: I listen to music 12hrs a day.
 
 ### Connect with me:
