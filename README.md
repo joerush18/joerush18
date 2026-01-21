@@ -3,7 +3,7 @@
 ## I'm a Son, Brother, Student & Developer.
 
 - 🌱 I’m currently working on my startup.
-- 🥅 2024 Goals: Stay happy and creative as hell.
+- 🥅 2026 Goals: Stay happy and Launching my startup.
 - ⚡ Fun fact: I listen to music 12hrs a day.
 
 ### Connect with me:
